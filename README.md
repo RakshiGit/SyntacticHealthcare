@@ -1,4 +1,4 @@
-# HealthCare Data processing and Predicting treatmemnt for a disease
+# HealthCare Data processing and Predicting treatment for a disease
 
 ## Table of Contents
 * [General Info]

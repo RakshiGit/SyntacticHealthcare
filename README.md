@@ -1,7 +1,6 @@
 # HealthCare Data processing and Predicting treatmemnt for a disease
 
 ## Table of Contents
-* [General Info]
 ‘BeHealthy’ is a health tech company which aims to connect the medical communities with millions of patients across the country. 
 
 The company has a web platform that allows doctors to list their services and manage patient interactions and provides services for patients such as booking interactions with doctors and ordering medicines online. Here, doctors can easily organise appointments, track past medical records and provide e-prescriptions.
@@ -28,6 +27,14 @@ Next time, when we feed the disease to the algorithm, it should be able to predi
 
 * [Technologies Used]
 Python, Jupyter, en_core_web_sm from Spacy library
+
+## Steps involved
+1) Data preprocessing
+2) Tokenisation
+3) Concept Identification using POS tagging
+4) Defining features for Conditional Random Fields
+5) Build the CRF Model using crfsuite from sklearn
+6) Identifying Diseases and Treatments using Custom NER
 
 ## Contact
 Created by [@RakshiGit] - feel free to contact me!

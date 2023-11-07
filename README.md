@@ -1,4 +1,4 @@
-# HealthCare Data processing and Predicting treatmemnt for a disease
+# HealthCare Data processing and Predicting treatment for a disease
 
 ## Table of Contents
 ‘BeHealthy’ is a health tech company which aims to connect the medical communities with millions of patients across the country. 
